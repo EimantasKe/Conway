@@ -11,7 +11,6 @@ Write Conway's Game of life:
 ## Development
 * Initial decision to use Qt Quick (QML) rather than QtWidget
 * Using TableView to represent the board
-* 
 
 ## Program structure
 * `Conways.pro`
