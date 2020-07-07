@@ -1,0 +1,4 @@
+module com.mycompany.qmlcomponents
+module TimeExample
+Conway 1.0 main.qml
+plugin conways
